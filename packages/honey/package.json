@@ -3,6 +3,9 @@
   "version": "1.0.0",
   "description": "Next.js and MDX based site generator.",
   "main": "index.js",
+  "publishConfig": {
+    "access": "public"
+  },
   "files": [
     "dist/*",
     "index.js",

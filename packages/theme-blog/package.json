@@ -3,6 +3,9 @@
   "version": "1.0.0",
   "description": "A Honey theme for blogs.",
   "main": "index.js",
+  "publishConfig": {
+    "access": "public"
+  },
   "repository": "https://github.com/foxycorps/honey.git",
   "author": "Brayden Moon <crazywolf132@gmail.com>",
   "license": "MIT",

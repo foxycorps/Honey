@@ -4,6 +4,9 @@
   "description": "A Honey theme for documentation sites.",
   "main": "index.js",
   "module": "index.js",
+  "publishConfig": {
+    "access": "public"
+  },
   "repository": "https://github.com/foxycorps/honey.git",
   "author": "Brayden Moon <crazywolf132@gmail.com>",
   "license": "MIT",
